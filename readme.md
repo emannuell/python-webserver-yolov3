@@ -1,6 +1,6 @@
 # Object detection API + Front-end and OpenCv Live webcam
 Detecção de objetos com Inteligência artificial, front-end para upload de arquivos, webservice para consumo via API. Desenvolvido em python 3 com Flask. Para detecção de objetos o modelo adotado foi YoloV3 com Tensorflow 1.14.
-A segunda página tem um exemplo em python do consumo da câmera local para aplicar filtros com opencv.
+A segunda página tem um exemplo em python do consumo da câmera local para aplicar filtros com opencv. Este repositório faz parte da publicação disponível no blog. Post: [Inteligência artificial e processamento de imagem com front-end e API em Flask](https://emannuell.com.br/inteligencia-artificial-e-processamento-de-imagem-com-flask-e-api/)
 
 ## Instalação
 
@@ -18,3 +18,4 @@ Para executar a aplicação:
 ```bash
 python app.py
 ```
+
